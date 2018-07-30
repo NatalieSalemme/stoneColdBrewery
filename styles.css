@@ -1,0 +1,16 @@
+#title {
+  color: gray;
+  font-family: bitter;
+  font-size: 35px;
+  padding-left: 1em;
+}
+#beerIcon {
+  font-size: 30px;
+}
+/* body {
+  background:
+} */
+h1 {
+  color: gray;
+  font-family: bitter;
+}
