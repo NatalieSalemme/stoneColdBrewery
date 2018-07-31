@@ -1,5 +1,11 @@
-#title {
-  color: gray;
+* {
+  font-family: bitter;
+  }
+ body {
+   background-color: #c4a87d;
+ }
+  #title {
+  color: rgba(255,255,255,.5);
   font-family: bitter;
   font-size: 35px;
   padding-left: 1em;
@@ -7,10 +13,36 @@
 #beerIcon {
   font-size: 30px;
 }
-/* body {
-  background:
-} */
-h1 {
-  color: gray;
+.icon {
+  font-size: 25px;
+}
+#beerFlight {
+  width: 102.15%;
+  margin-left: -1em;
+  height: 100vh;
+}
+
+h1, h3 {
+  color:  gray;
   font-family: bitter;
+  font-size: 40px;
+}
+p {
+  font-family: bitter;
+  /* color: white; */
+}
+/* #gameCarousel {
+  max-height: 100px;
+  width: 100%;
+} */
+.copyright {
+  background-color: #343a40;
+  /* #212529; */
+  color: white;
+  font-size: 14px;
+  margin-bottom: -1em;
+  padding: 1 -2 0 0;
+}
+.list-group, .list-group-flush, .card, .carousel-inner img, #contact-us, #submit-button{
+  margin: auto;
 }
