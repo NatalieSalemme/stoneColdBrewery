@@ -46,3 +46,6 @@ p {
 .list-group, .list-group-flush, .card, .carousel-inner img, #contact-us, #submit-button{
   margin: auto;
 }
+.see-menu-button a:hover {
+  text-decoration: none;
+}
